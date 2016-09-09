@@ -9,6 +9,7 @@
     "lint": "eslint --fix src"
   },
   "dependencies": {
+    "dotenv": "^2.0.0",
     "photon": "github:connors/photon",
     "react": "^15.3.1",
     "react-dom": "^15.3.1",
